@@ -7,7 +7,7 @@ export const shazamCoreApi = createApi({
   baseQuery: fetchBaseQuery({
     baseUrl: 'https://shazam.p.rapidapi.com/',
     prepareHeaders: (headers) => {
-      headers.set('X-RapidAPI-Key', '857ad258edmshf4f276dbca5518fp1edf6djsn6c996b73fe1e');
+      headers.set('X-RapidAPI-Key', '815d9e07ffmsh97da0c88b2bf5c3p1726e6jsn9660c81d69ce');
 
 
       return headers;
